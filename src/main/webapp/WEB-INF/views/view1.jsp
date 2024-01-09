@@ -11,6 +11,6 @@
     <title>Ma vue 1</title>
 </head>
 <body>
-    <h1>La première vue</h1>
+    <h1>La première vue s</h1>
 </body>
 </html>
