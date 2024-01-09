@@ -6,6 +6,8 @@
 </head>
 <body>
 <h1>Ma page principal</h1>
-
+    <form action="hello-servlet" method="post">
+        
+    </form>
 </body>
 </html>
