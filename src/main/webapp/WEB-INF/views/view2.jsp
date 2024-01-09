@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-
+    <h1>la deuxième vue</h1>
 </body>
 </html>
